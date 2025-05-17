@@ -1,0 +1,37 @@
+Section 1: General Awareness
+
+	*Web Development Basics:
+		well web dev is that important for the internet because 
+		without it the internet will be empty or unmaintained.
+
+	*HTML Knowledge:
+		well im a junior graphic designer and i interacted with the HTML several times,
+		and for me the HTML is always like the chassis of the project like the chassis of a building 
+		without it u have no idea where to put the doors nor where the walls will be. 
+
+Section 2: Familiarity with CSS
+
+	*CSS Understanding:
+		as a designer i need to be familiar with CSS and as i said about the HTML i think the CSS is like the
+		step where u work on the thinks that everybody will see in ur website like the graphic part and a bit 
+		advanced where u paint ur building style ur rooms etc.
+
+Section 3: JavaScript and Its Importance
+	
+	*Introduction to JavaScript:
+		i actually have a bit of knowledge on JS but i think i know its purpose exactly where it plays the dynamic
+		part of the project and it brings live to it which will make it both more catching the eye and exiting like 
+		in a building when u add windows, doors, furniture that make the building dynamic.
+
+Section 4: Introduction to React and Node.js
+
+	*React and Node.js Awareness:
+		about react and node.js i almost have no clue beside that react is more of a frontend tool and the node.js
+		is more of a backend tool but im pretty sure i will have a good idea about them very soon and i cant really 		wait.
+	
+Section 5: Bonus Question
+
+	*Learning Intentions:
+		well im a designer and i think i entered the industry from the wrong side, im working with développer that 		can almost do my job with the dev knwoledge already acquired. soo i though why not doing both too and 			Expanding expertise soo that will help in choosing a better career and will make me open for bigger and 		better roles.
+
+
