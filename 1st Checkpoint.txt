@@ -27,11 +27,13 @@ Section 4: Introduction to React and Node.js
 
 	*React and Node.js Awareness:
 		about react and node.js i almost have no clue beside that react is more of a frontend tool and the node.js
-		is more of a backend tool but im pretty sure i will have a good idea about them very soon and i cant really 		wait.
+		is more of a backend tool but im pretty sure i will have a good idea about them very soon and i cant really wait.
 	
 Section 5: Bonus Question
 
 	*Learning Intentions:
-		well im a designer and i think i entered the industry from the wrong side, im working with développer that 		can almost do my job with the dev knwoledge already acquired. soo i though why not doing both too and 			Expanding expertise soo that will help in choosing a better career and will make me open for bigger and 		better roles.
+		well im a designer and i think i entered the industry from the wrong side, im working with développer that can 
+		almost do my job with the dev knwoledge already acquired. soo i though why not doing both too and Expanding 
+		expertise soo that will help in choosing a better career and will make me open for bigger and better roles.
 
 
